@@ -9,4 +9,8 @@ display_board(board)
 
 # Make sure to execute #play below
 
+<<<<<<< HEAD
 play(board)
+=======
+play(board)
+>>>>>>> 4dc0442e378373f406e537596a16622a3d71659f
